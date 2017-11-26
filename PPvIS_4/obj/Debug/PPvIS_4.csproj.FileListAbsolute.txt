@@ -1,0 +1,6 @@
+D:\c#_projects\PPvIS_4\PPvIS_4\bin\Debug\PPvIS_4.exe.config
+D:\c#_projects\PPvIS_4\PPvIS_4\bin\Debug\PPvIS_4.exe
+D:\c#_projects\PPvIS_4\PPvIS_4\bin\Debug\PPvIS_4.pdb
+D:\c#_projects\PPvIS_4\PPvIS_4\obj\Debug\PPvIS_4.csprojResolveAssemblyReference.cache
+D:\c#_projects\PPvIS_4\PPvIS_4\obj\Debug\PPvIS_4.exe
+D:\c#_projects\PPvIS_4\PPvIS_4\obj\Debug\PPvIS_4.pdb
